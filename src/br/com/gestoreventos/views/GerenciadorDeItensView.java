@@ -6,7 +6,6 @@
 
 package br.com.gestoreventos.views;
 
-import View.TabelaModelItens;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Font;
